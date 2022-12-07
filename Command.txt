@@ -1,0 +1,7 @@
+1st Step
+git remote add origin commant for the repository
+git remote -v
+git push origin main
+
+2nd step
+git config --global user.name "FIRST_NAME LAST_NAME" for name change	
